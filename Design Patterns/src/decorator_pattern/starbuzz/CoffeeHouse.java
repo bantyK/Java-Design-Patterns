@@ -8,6 +8,7 @@ import decorator_pattern.starbuzz.decorators.Whip;
 
 /**
  * Created by banty on 15/8/17.
+ * Main class to create and use beverage and decorators
  */
 public class CoffeeHouse {
     public static void main(String[] args) {
